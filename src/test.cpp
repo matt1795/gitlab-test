@@ -1,5 +1,5 @@
 #include "test.hpp"
 
 std::string get_hello() {
-    return "hello";
+    return "hello world";
 }
